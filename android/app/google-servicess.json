@@ -1,0 +1,155 @@
+{
+  "project_info": {
+    "project_number": "602569096166",
+    "firebase_url": "https://truck-f4bfc.firebaseio.com",
+    "project_id": "truck-f4bfc",
+    "storage_bucket": "truck-f4bfc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602569096166:android:3f87c40af6b08adf203427",
+        "android_client_info": {
+          "package_name": "com.truck.app.client"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "602569096166-3b92rjjqhqj4lt4oia82fp3gthto1uvk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5MwuNrxkOOEmK1wk8GOWJDTIzsFDhCh0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "602569096166-3b92rjjqhqj4lt4oia82fp3gthto1uvk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "602569096166-odgoq1cr1gsl8ndtd13mtq1ejpg0ac9q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.aklApps.TruckKsaClient"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602569096166:android:73f77a9f3835add9203427",
+        "android_client_info": {
+          "package_name": "com.truck.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "602569096166-3b92rjjqhqj4lt4oia82fp3gthto1uvk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5MwuNrxkOOEmK1wk8GOWJDTIzsFDhCh0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "602569096166-3b92rjjqhqj4lt4oia82fp3gthto1uvk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "602569096166-odgoq1cr1gsl8ndtd13mtq1ejpg0ac9q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.aklApps.TruckKsaClient"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602569096166:android:c313aa7685d83f81203427",
+        "android_client_info": {
+          "package_name": "com.trucksa.client"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "602569096166-3b92rjjqhqj4lt4oia82fp3gthto1uvk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5MwuNrxkOOEmK1wk8GOWJDTIzsFDhCh0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "602569096166-3b92rjjqhqj4lt4oia82fp3gthto1uvk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "602569096166-odgoq1cr1gsl8ndtd13mtq1ejpg0ac9q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.aklApps.TruckKsaClient"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602569096166:android:1277a5e314baf88b203427",
+        "android_client_info": {
+          "package_name": "com.trucksa.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "602569096166-3b92rjjqhqj4lt4oia82fp3gthto1uvk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5MwuNrxkOOEmK1wk8GOWJDTIzsFDhCh0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "602569096166-3b92rjjqhqj4lt4oia82fp3gthto1uvk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "602569096166-odgoq1cr1gsl8ndtd13mtq1ejpg0ac9q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.aklApps.TruckKsaClient"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

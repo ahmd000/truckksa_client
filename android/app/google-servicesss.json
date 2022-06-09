@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "810952583936",
+    "project_id": "trucksa-9d5a0",
+    "storage_bucket": "trucksa-9d5a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810952583936:android:fb128a0e8c748f2f89a1e5",
+        "android_client_info": {
+          "package_name": "com.truck.app.client"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "810952583936-h1n84tudtv8hlq58t57lro9qsb4bqgo1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5UhgsobFvXqkrouZTWlYcC_ZbzIjiCrM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "810952583936-h1n84tudtv8hlq58t57lro9qsb4bqgo1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "810952583936-kape7400ed6v1amuc9mdk4gfoiht7ea7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.aklApps.TruckKsaDriver"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810952583936:android:d7fcfff94fec848b89a1e5",
+        "android_client_info": {
+          "package_name": "com.trucksa.client"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "810952583936-h1n84tudtv8hlq58t57lro9qsb4bqgo1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5UhgsobFvXqkrouZTWlYcC_ZbzIjiCrM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "810952583936-h1n84tudtv8hlq58t57lro9qsb4bqgo1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "810952583936-kape7400ed6v1amuc9mdk4gfoiht7ea7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.aklApps.TruckKsaDriver"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810952583936:android:779efc9cd212305d89a1e5",
+        "android_client_info": {
+          "package_name": "com.trucksa.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "810952583936-h1n84tudtv8hlq58t57lro9qsb4bqgo1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5UhgsobFvXqkrouZTWlYcC_ZbzIjiCrM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "810952583936-h1n84tudtv8hlq58t57lro9qsb4bqgo1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "810952583936-kape7400ed6v1amuc9mdk4gfoiht7ea7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.aklApps.TruckKsaDriver"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
